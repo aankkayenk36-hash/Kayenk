@@ -1,0 +1,70 @@
+<div align="center">
+
+  <!-- Header Animasi Mengetik (Merah Villain) -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Yanzz;Villain+Developer;Mastering+The+Web;Welcome+to+My+Lair" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <!-- Intro -->
+  <img src="https://media.giphy.com/media/q3k8Fp99oM6bk/giphy.gif" width="100%" style="max-height: 2px; background: red;">
+  
+  <h3 align="center">
+    <i>"Yanzz Adalah seorang developer yang enggan belajar tapi ingin menguasai banyak bahasa"</i>
+  </h3>
+  
+  <img src="https://media.giphy.com/media/q3k8Fp99oM6bk/giphy.gif" width="100%" style="max-height: 2px; background: red;">
+
+  <br/>
+  <br/>
+
+  <!-- 3D Trophies (Ini yang bikin efek 3D) -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Yanzz15&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
+
+  <br/>
+  <br/>
+
+  <!-- Tech Stack Icons (Bergerak saat hover di website skillicons) -->
+  <h3>🛠️ Tech Stack & Tools</h3>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css,js,ts,tailwind,vite,git,github,vscode,vim,figma,vercel&theme=dark" />
+    </a>
+  </p>
+
+  <br/>
+
+  <!-- GitHub Stats (Tema Radical - Cocok sama Merah/Hitam) -->
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Yanzz15&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff0000&icon_color=ff0000" height="180" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanzz15&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff0000&icon_color=ff0000" height="180" alt="languages" />
+  </div>
+
+  <br/>
+
+  <!-- Snake Animation Placeholder (Perlu setup Action, ini gambarnya kalau sudah jadi) -->
+  <!-- <img src="https://github.com/Yanzz15/Yanzz15/blob/output/github-contribution-grid-snake.svg" /> -->
+
+  <br/>
+
+  <!-- Connect -->
+  <h3>🔗 Connect With Me</h3>
+  <p align="center">
+    <a href="https://wa.me/6285320544198" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    </a>
+    <a href="mailto:yansptra82@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://yanzz-dev.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+  </p>
+
+  <br/>
+  <p align="center">Credit: Yanzz15</p>
+
+</div>
